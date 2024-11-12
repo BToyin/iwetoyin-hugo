@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on IwéToyin</title>
+    <link>https://iwetoyin.netlify.app/posts/</link>
+    <description>Recent content in Posts on IwéToyin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iwetoyin.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why you should start a YouTube channel - Communication is key</title>
+      <link>https://iwetoyin.netlify.app/posts/post-1/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://iwetoyin.netlify.app/posts/post-1/</guid>
+      
+      <description>Hello hello, and welcome back my peopledem. I am back…again. If you are a first time reader then welcome to my humble abode! But if you have been following me on Instagram or Facebook (blast from the past I know) then you might be aware that I’ve started and restarted and renamed this blog of mine a few times. It’s gone through a few transitions in the last few years, but we are back again and here to stay for a while.</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://iwetoyin.netlify.app/posts/markdown-syntax/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://iwetoyin.netlify.app/posts/markdown-syntax/</guid>
+      
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
