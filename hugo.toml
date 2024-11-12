@@ -1,5 +1,5 @@
 title = "IwéToyin"
-baseURL = 'https://hba.sid.one/'
+baseURL = 'https://iwetoyin.netlify.app/'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
